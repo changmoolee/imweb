@@ -1,0 +1,23 @@
+.dark-body {
+  color: white;
+  background-color: black;
+}
+
+.dark-card {
+  background-color: gray;
+}
+
+.dark-button {
+  color: white;
+  background-color: #b5b5b5;
+}
+
+.dark-modal {
+  color: white;
+  background-color: gray;
+}
+
+.dark-drawer {
+  color: white;
+  background-color: gray;
+}
